@@ -1,0 +1,11 @@
+Perl is famous for its ability to create programs that are entirely illegible to everyone but the developer who wrote them. The Perl community even has obfuscation contests to see who can write the most unintelligible Perl code.
+
+-- Andrew Clinick, Microsoft Scripting Program Manager in Perl of Wisdom
+
+it's almost depressing to think that someone might actually believe this. Programmers, not languages, write obfuscated code; and Perl certainly didn't invent the concept.
+
+-- brian d foy response on comp.lang.perl.misc 16 February 1999
+
+I may have become partially famous for my obscure one-liners here on Usenet, but when I write production code for hire, it's compact but readable and well-documented ... let us please stop passing around the myth that Perl *is* write-only code, or *encourages* write-only code.
+
+-- Randal L. Schwartz response on comp.lang.perl.misc 1st March 1999

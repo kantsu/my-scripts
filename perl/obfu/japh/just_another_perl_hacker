@@ -1,0 +1,11 @@
+Being the one who has given several talks about Japhs, I've decreed
+that a Japh uses the following rules:
+
+  - It prints "Just another Perl Hacker" with some reasonable
+    capitalization, followed by optional punctuation (comma,
+    dot) followed by an optional newline. Some flexibility
+    in rules makes for more Japhs. Printing to either STDOUT
+    or STDERR is allowed.
+  - It doesn't print anything else.
+  - The program uses at most 4 lines, each line at most 80 characters.
+  - It uses obscure or surprising syntax.
