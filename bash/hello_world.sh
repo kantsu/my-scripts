@@ -1,10 +1,9 @@
 #!/bin/bash
-# Hello World! -------- ^_^ #
-#---------------------------#
-# 2013-09-18                #
-# benefit@kantsu.fi         #
-#---------------------------#
-
-
-STRING="HELLO WORLD"
-echo $STRING
+# 2014-03-08
+clear
+message="Hello World"
+echo
+echo $message
+echo "------------"
+echo
+echo
