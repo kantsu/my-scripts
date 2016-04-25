@@ -1,0 +1,23 @@
+# 2013-09-25		Samuli Reinikainen	#
+#-----------------------------------------------#
+# Regular Expressions and Special Characters    #
+#                                               #
+#       \D = matches non-digit character        #
+#       \e = escape                             #
+#       \l = next character lower case          #
+#       \S = match a non-white space char       #
+#       \U = match upper case until \E found    #
+#       \w = match word                         #
+#       \d = matches digit character            #
+#       \f = form feed                          #
+#       \n = new line                           #
+#       \s = match a white space character      #
+#       \u = next character uppercase           #
+#       \Q = quote pattern metachar until \E    #
+#       \E = end case modification              #
+#       \L = matches lowercase until \E found   #
+#       \r = return                             #
+#       \t = match tab                          #
+#       \W = match non-word                     #
+#-----------------------------------------------#
+
